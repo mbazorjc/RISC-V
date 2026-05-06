@@ -20,4 +20,4 @@ A simple, animated Python script that demonstrates the classic Tower of Hanoi pu
 You need to have Python installed on your machine. You can check your version by running:
 ```bash
 python --version
-run the file: hanoi.py
+run the file: hanoi.py [https://github.com/mbazorjc/RISC-V/blob/main/hanoi.py]
